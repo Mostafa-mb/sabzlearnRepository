@@ -10,3 +10,11 @@ h1{
 form{
     display: inline-block;
 }
+
+/* new codes */
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
