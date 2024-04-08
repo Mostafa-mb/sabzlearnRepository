@@ -9,5 +9,9 @@ const disslikePosts = () => {
 };
 
 const getMe = (user) => {
-  return user.name
-}
+  return user.name;
+};
+
+const setComment = (Comment) => {
+  return Comment.body;
+};
