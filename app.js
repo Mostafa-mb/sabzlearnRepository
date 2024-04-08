@@ -14,10 +14,4 @@ const addCourse = (Course) => {
   return true;
 };
 
-const test = () => {
-  return false;
-};
 
-const setTicket = () => {
-  return true;
-};
